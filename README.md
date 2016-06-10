@@ -2,4 +2,4 @@
 
 HTML/CSS/JS Static Webpage
 
-Completed by mVince
+Completed by Vince
